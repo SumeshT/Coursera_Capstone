@@ -1,0 +1,39 @@
+**Capstone Project - The Battle of Neighbourhoods**
+
+*Introduction / Business Problem*
+
+"Which locality of all the cities in United States would be the best place to start a Gaming Arcade?"
+
+My boss Anthony is interested in starting a gaming arcade in the best locality of all the cities in United states. He defines a best locatlity based on the following constraints,
+
+1.) Population density of a locality
+2.) Per Capital income
+3.) Population of each location
+4.) Venues in each locality
+
+The category of the venues that he's interested in are,
+
+1.) Arts and Entertainment
+2.) Shops & Service
+3.) College and University
+4.) Event
+5.) Food
+6.) Nightife Spot
+7.) Outdoors & Recreation
+8.) Professional & Other places
+9.) Residence
+10.) Travel & Transport
+11.) Data
+
+To help Anthony set up a gaming arcade, we will get the data from the below sources
+
+List of all the cities in United States with population density and coordinates: https://en.wikipedia.org/wiki/List_of_United_States_cities_by_population
+List of all the cities in United States with Per Capita Income : https://en.wikipedia.org/wiki/List_of_United_States_counties_by_per_capita_income
+
+Using Four Square API to get the following
+
+List of all venues in each city
+List of all venues in each locality in the selected city
+Using the above data we will first select best city to proceed with based on the values like Population density, per capita income of the state, number of venues (as we are giving weights to each venue based on its category).
+
+Once we select a city, we then go hunting for Localities. Again, we do it using the same approach i.e. based on the scores of venues in each locality.

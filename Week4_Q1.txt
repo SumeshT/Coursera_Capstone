@@ -1,0 +1,26 @@
+**Capstone Project - The Battle of Neighbourhoods**
+
+*Introduction / Business Problem*
+
+"Which locality of all the cities in United States would be the best place to start a Gaming Arcade?"
+
+My boss Anthony is interested in starting a gaming arcade in the best locality of all the cities in United states. He defines a best locatlity based on the following constraints,
+
+1.) Population density of a locality
+2.) Per Capital income
+3.) Population of each location
+4.) Venues in each locality
+
+The category of the venues that he's interested in are,
+
+1.) Arts and Entertainment
+2.) Shops & Service
+3.) College and University
+4.) Event
+5.) Food
+6.) Nightife Spot
+7.) Outdoors & Recreation
+8.) Professional & Other places
+9.) Residence
+10.) Travel & Transport
+11.) Data
