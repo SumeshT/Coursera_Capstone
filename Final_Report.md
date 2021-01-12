@@ -45,7 +45,7 @@ Based on the analysis we have done, the following is the result we have got:
 
 ### Plot to show the location of final arcade that we are suggesting:
 
-<img src="url.gif" alt="Alt text that describes the graphic" />
+<img src="https://github.com/SumeshT/Coursera_Capstone/blob/master/Result.png" alt="Alt text that describes the graphic" />
 
 ## Discusions and further Improvements
 
