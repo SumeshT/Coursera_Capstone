@@ -59,6 +59,6 @@ Based on the given constraints, a gaming arcade can be installed in a place clos
 
 ## Resources :
 
-List of all the cities in United States with population density and coordinates: https://en.wikipedia.org/wiki/List_of_United_States_cities_by_population
-List of all the cities in United States with Per Capita Income : https://en.wikipedia.org/wiki/List_of_United_States_counties_by_per_capita_income
-Four Square API : https://foursquare.com
+ - List of all the cities in United States with population density and coordinates: https://en.wikipedia.org/wiki/List_of_United_States_cities_by_population
+ - List of all the cities in United States with Per Capita Income : https://en.wikipedia.org/wiki/List_of_United_States_counties_by_per_capita_income
+ - Four Square API : https://foursquare.com
